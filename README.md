@@ -2,9 +2,9 @@
 
 船舶解体計画
 
-## Planned Layout
+## Possible Layouts
 
-![Layout Image](./img/keyboard-layout.png)
+![Layout Image](./img/mini-bship-layouts.png)
 
 ## Why?
 
