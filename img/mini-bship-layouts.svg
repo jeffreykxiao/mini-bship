@@ -2278,25 +2278,6 @@
    
   </g>
 
-  <g class='ghosted  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="757" y="163"
-          width="52" height="52"
-          rx="5" fill="#a0a099" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="757" y="163"
-          width="52" height="52"
-          rx="5" fill="#a0a099"/>
-    
-
-     
-   
-  </g>
-
   <g class='  keycap'
   >
 
@@ -2990,7 +2971,7 @@
         
           
           
-            <linearGradient id="_fill76" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
+            <linearGradient id="_fill75" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
                             x1="870" y1="273" x2="939" y2="273"/>
           
           <rect x="871" y="274"
@@ -2998,14 +2979,14 @@
                 rx="5" fill="#c5c5be"/>
           <rect x="871" y="274"
                 width="67" height="40"
-                rx="5" fill="url(#_fill76)"/>
+                rx="5" fill="url(#_fill75)"/>
           <rect x="884.5" y="274"
                 width="53.5" height="94"
                 rx="5" fill="#c5c5be"/>
         
         <rect x="884.5" y="274"
               width="53.5" height="94"
-              rx="5" fill="url(#_fill76)"/>
+              rx="5" fill="url(#_fill75)"/>
       
 
      
@@ -4735,25 +4716,6 @@
 
   
     <!-- Outer Border -->
-    <rect x="757" y="433"
-          width="52" height="52"
-          rx="5" fill="#a0a099" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="757" y="433"
-          width="52" height="52"
-          rx="5" fill="#a0a099"/>
-    
-
-     
-   
-  </g>
-
-  <g class='ghosted  keycap'
-  >
-
-  
-    <!-- Outer Border -->
     <rect x="811" y="433"
           width="52" height="52"
           rx="5" fill="#a0a099" class="outer border"/>
@@ -6145,7 +6107,7 @@
         
           
           
-            <linearGradient id="_fill159" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
+            <linearGradient id="_fill157" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
                             x1="816" y1="597" x2="885" y2="597"/>
           
           <rect x="817" y="598"
@@ -6153,14 +6115,14 @@
                 rx="5" fill="#c5c5be"/>
           <rect x="817" y="598"
                 width="67" height="40"
-                rx="5" fill="url(#_fill159)"/>
+                rx="5" fill="url(#_fill157)"/>
           <rect x="830.5" y="598"
                 width="53.5" height="94"
                 rx="5" fill="#c5c5be"/>
         
         <rect x="830.5" y="598"
               width="53.5" height="94"
-              rx="5" fill="url(#_fill159)"/>
+              rx="5" fill="url(#_fill157)"/>
       
 
      
@@ -7809,25 +7771,6 @@
    
   </g>
 
-  <g class='ghosted  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="757" y="757"
-          width="52" height="52"
-          rx="5" fill="#a0a099" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="757" y="757"
-          width="52" height="52"
-          rx="5" fill="#a0a099"/>
-    
-
-     
-   
-  </g>
-
   <g class='  keycap'
   >
 
@@ -9281,7 +9224,7 @@
         
           
           
-            <linearGradient id="_fill241" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
+            <linearGradient id="_fill238" xlink:href="#DCS" gradientUnits="userSpaceOnUse"
                             x1="870" y1="921" x2="939" y2="921"/>
           
           <rect x="871" y="922"
@@ -9289,14 +9232,14 @@
                 rx="5" fill="#c5c5be"/>
           <rect x="871" y="922"
                 width="67" height="40"
-                rx="5" fill="url(#_fill241)"/>
+                rx="5" fill="url(#_fill238)"/>
           <rect x="884.5" y="922"
                 width="53.5" height="94"
                 rx="5" fill="#c5c5be"/>
         
         <rect x="884.5" y="922"
               width="53.5" height="94"
-              rx="5" fill="url(#_fill241)"/>
+              rx="5" fill="url(#_fill238)"/>
       
 
      
@@ -11016,25 +10959,6 @@
               width="67" height="40"
               rx="5" fill="url(#SPACE)"/>
       
-
-     
-   
-  </g>
-
-  <g class='ghosted  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="757" y="1081"
-          width="52" height="52"
-          rx="5" fill="#a0a099" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="757" y="1081"
-          width="52" height="52"
-          rx="5" fill="#a0a099"/>
-    
 
      
    
