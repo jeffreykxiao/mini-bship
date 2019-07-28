@@ -4,8 +4,7 @@
 
 ## Planned Layout
 
-![Layout Image](./img/keyboard-layout.svg)
-<img src="./img/keyboard-layout.svg">
+![Layout Image](./img/keyboard-layout.png)
 
 ## Why?
 
